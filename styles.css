@@ -3,3 +3,7 @@ h1 {
     background-color: violet;
     cursor: pointer;
 }
+
+body {
+    background-color: black;
+}
