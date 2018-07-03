@@ -5,5 +5,5 @@ titleElem.addEventListener('click', function() {
 });
 
 function showMessage() {
-    alert('Hello World');
+    alert('Hello, World! Hola, Mundo! Hallo, Welt!');
 }
