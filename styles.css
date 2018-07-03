@@ -1,7 +1,11 @@
-h1, h2 {
+h1 {
     color: lightgreen;
     background-color: violet;
     cursor: pointer;
+}
+
+h2 {
+    color: white;
 }
 
 body {
