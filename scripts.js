@@ -12,3 +12,7 @@ function showMessage() {
 function showWelcomeMsg() {
     alert('Welcome, Bienvenido, Willkommen, and 194 languages more!');
 }
+
+function showInstructions() {
+    alert('Instructions!, Instrucciones!, Anweisungen!');
+}
