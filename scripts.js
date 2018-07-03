@@ -10,5 +10,5 @@ function showMessage() {
 }
 
 function showWelcomeMsg() {
-    alert('Welcome, Bienvenido, Willkommen');
+    alert('Welcome, Bienvenido, Willkommen, and 194 languages more!');
 }
